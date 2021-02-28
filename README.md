@@ -2,7 +2,7 @@
 
 A PHP Made Telegram Bot To Download Instagram Photos,Videos & Reels.
 
-You Can Find The Bot In Action 👉 [Telegram](https://telegram.dog/InstaDownloadRo_bot)
+You Can Find The Bot In Action 👉 [Here](https://telegram.dog/InstaDownloadRo_bot)
 
 ## License: CC0 1.0 Universal (Public Domain)
 
