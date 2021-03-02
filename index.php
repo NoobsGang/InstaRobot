@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-$tok = getenv("BOT_TOKEN");
+$tok = "Enter Your Bot Token Here";
 function botaction($method, $data){
 	global $tok;
 	global $dadel;
